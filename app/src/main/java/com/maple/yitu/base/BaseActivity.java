@@ -1,4 +1,4 @@
-package com.maple.yitu.ui.base;
+package com.maple.yitu.base;
 
 import android.content.Context;
 import android.content.pm.ActivityInfo;

@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.maple.yitu.R;
-import com.maple.yitu.ui.base.BaseActivity;
+import com.maple.yitu.base.BaseActivity;
 
 public class DrawActivity extends BaseActivity implements View.OnClickListener {
 
